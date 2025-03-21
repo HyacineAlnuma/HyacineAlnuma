@@ -24,21 +24,25 @@
 <li>
 
  ### Tools
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  </li>
  </ul>
 
 ## 📊 GitHub Stats:
 <div align="center" width="100%">
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyacineAlnuma&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyacineAlnuma&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-![](https://github-readme-stats.vercel.app/api?username=HyacineAlnuma&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=HyacineAlnuma&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 
 </div>
 
 ## 🌐 Let's connect!
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hyacinealnuma@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hyacinealnuma@gmail.com) </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hyacine-alnuma-6671b617b)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
