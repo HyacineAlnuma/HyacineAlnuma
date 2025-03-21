@@ -7,6 +7,7 @@
 add php c react linux sql css scss
 -->
 ## Connect with me
+![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2012%20mins-blue)
 <!--
 **HyacineAlnuma/HyacineAlnuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
