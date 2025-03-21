@@ -6,7 +6,7 @@
  
 ## 💫 About Me:
 
- 💻 I'm currently studying at [42 School]([https://www.42network.org/](https://42.fr/en/homepage/))
+ 💻 I'm currently studying at [42 School](https://42.fr/en/homepage/)
 
 ## ⚙️ Tech Stack:
 <ul>
