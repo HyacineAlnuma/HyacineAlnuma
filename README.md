@@ -1,4 +1,3 @@
-<div align="center" width="100%">
 # Hi there 👋
 
 ## 💫 About Me:
@@ -14,10 +13,10 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-
+<div align="center" width="100%">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyacineAlnuma&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=HyacineAlnuma&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
+</div>
 ## 🌐 Let's connect!
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hyacinealnuma@gmail.com) 
-</div>
+
