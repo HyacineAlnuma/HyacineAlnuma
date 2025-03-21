@@ -1,3 +1,4 @@
+<div align="center" width="100%">
 # Hi there 👋
 
 ## 💫 About Me:
@@ -19,3 +20,4 @@
 
 ## 🌐 Let's connect!
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hyacinealnuma@gmail.com) 
+</div>
