@@ -1,5 +1,7 @@
-<h1 text-align="center">Hi there 👋</h1>
-
+<div align="center" width="100%">
+# Hi there 👋
+</div>
+ 
 ## 💫 About Me:
 
  💻 I'm currently studying at [42 School](https://www.42network.org/)
