@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 text-align="center">Hi there 👋</h1>
 
 ## 💫 About Me:
 
